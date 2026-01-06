@@ -1,6 +1,7 @@
 # SMC Quantitative Backtester
 
 Основа стратегии взята из популярного индикатор от LuxAlgo
+
 <img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/89fe4c79-1f6e-4780-b189-59f0c1ec7883" />
 
 Движок для симуляции торговли и проверки гипотез на базе концепции **Smart Money Concepts (SMC)**. Анализ и рассчёт `Confluence Score` для каждого сетапа и генерирация детальную отчетности.
