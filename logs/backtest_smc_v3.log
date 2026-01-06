@@ -1,0 +1,607 @@
+2025-12-07 16:44:49,070 - INFO - [smc] - 📈 Открыта позиция SELL @ 177.0125 | Size: 45.8348 | SL: 180.8891 | TP: 171.0600 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:44:49,071 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $12.29 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 16:44:49,077 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-8.26 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 16:44:49,101 - INFO - [smc] - [2025-05-28 08:00:00] Price: $174.0100 | Conf: -0.91 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $89,072,477
+2025-12-07 16:44:49,114 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $301.13 | Причина: TAKE_PROFIT | Удержание: 1 days 00:00:00
+2025-12-07 16:44:49,183 - INFO - [smc] - [2025-05-30 10:00:00] Price: $163.7600 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $111,681,245
+2025-12-07 16:44:49,274 - INFO - [smc] - [2025-06-01 12:00:00] Price: $150.9800 | Conf: 0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $92,416,410
+2025-12-07 16:44:49,303 - INFO - [smc] - 📈 Открыта позиция SELL @ 157.5335 | Size: 67.8089 | SL: 160.2413 | TP: 150.4800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:44:49,308 - INFO - [smc] - 📈 Открыта позиция SELL @ 157.6436 | Size: 72.0994 | SL: 160.1944 | TP: 150.4800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:44:49,362 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-142.73 | Причина: STOP_LOSS | Удержание: 1 days 02:00:00
+2025-12-07 16:44:49,365 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-142.67 | Причина: STOP_LOSS | Удержание: 1 days 01:00:00
+2025-12-07 16:44:49,391 - INFO - [smc] - [2025-06-03 14:00:00] Price: $163.0800 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $288,260,298
+2025-12-07 16:44:49,480 - INFO - [smc] - [2025-06-05 16:00:00] Price: $148.5800 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $279,816,300
+2025-12-07 16:44:49,554 - INFO - [smc] - [2025-06-07 18:00:00] Price: $150.4900 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $68,042,407
+2025-12-07 16:44:49,591 - INFO - [smc] - 📈 Открыта позиция SELL @ 150.1795 | Size: 95.7607 | SL: 152.0700 | TP: 147.5900 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:44:49,597 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-194.67 | Причина: STOP_LOSS | Удержание: 0 days 02:00:00
+2025-12-07 16:44:49,640 - INFO - [smc] - [2025-06-09 20:00:00] Price: $156.4100 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $51,964,327
+2025-12-07 16:44:49,724 - INFO - [smc] - [2025-06-11 22:00:00] Price: $160.0400 | Conf: 0.78 | Decision: SELL | Quality: OB | Swing bias: BEARISH | Volume: $223,847,433
+2025-12-07 16:44:49,815 - INFO - [smc] - [2025-06-14 00:00:00] Price: $147.7500 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $105,133,631
+2025-12-07 16:44:49,924 - INFO - [smc] - [2025-06-16 02:00:00] Price: $155.6700 | Conf: -0.06 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $218,322,483
+2025-12-07 16:44:50,000 - INFO - [smc] - [2025-06-18 04:00:00] Price: $148.7100 | Conf: -0.99 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $65,330,123
+2025-12-07 16:44:50,068 - INFO - [smc] - 📈 Открыта позиция SELL @ 146.5499 | Size: 67.7091 | SL: 149.1455 | TP: 142.8300 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:44:50,077 - INFO - [smc] - 📈 Открыта позиция SELL @ 146.8200 | Size: 79.1582 | SL: 149.0509 | TP: 142.8300 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:44:50,082 - INFO - [smc] - 📈 Открыта позиция SELL @ 146.9900 | Size: 86.9062 | SL: 149.0284 | TP: 142.8300 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:44:50,091 - INFO - [smc] - [2025-06-20 06:00:00] Price: $145.4200 | Conf: -0.03 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $58,445,127
+2025-12-07 16:44:50,109 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $272.44 | Причина: TAKE_PROFIT | Удержание: 0 days 17:00:00
+2025-12-07 16:44:50,111 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $335.31 | Причина: TAKE_PROFIT | Удержание: 0 days 15:00:00
+2025-12-07 16:44:50,112 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $380.39 | Причина: TAKE_PROFIT | Удержание: 0 days 14:00:00
+2025-12-07 16:44:50,187 - INFO - [smc] - [2025-06-22 08:00:00] Price: $134.8600 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $71,099,586
+2025-12-07 16:44:50,256 - INFO - [smc] - 📈 Открыта позиция SELL @ 136.4925 | Size: 39.1759 | SL: 141.2908 | TP: 125.8300 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:44:50,269 - INFO - [smc] - 📈 Открыта позиция SELL @ 136.6204 | Size: 35.6539 | SL: 141.8862 | TP: 125.8300 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:44:50,275 - INFO - [smc] - 📈 Открыта позиция SELL @ 137.9896 | Size: 48.0601 | SL: 141.9168 | TP: 125.8300 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:44:50,281 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-188.07 | Причина: STOP_LOSS | Удержание: 0 days 07:00:00
+2025-12-07 16:44:50,283 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-191.74 | Причина: STOP_LOSS | Удержание: 0 days 03:00:00
+2025-12-07 16:44:50,286 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-195.44 | Причина: STOP_LOSS | Удержание: 0 days 02:00:00
+2025-12-07 16:44:50,291 - INFO - [smc] - 📈 Открыта позиция SELL @ 140.8083 | Size: 34.8595 | SL: 145.9449 | TP: 130.6000 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:44:50,295 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-185.06 | Причина: STOP_LOSS | Удержание: 0 days 01:00:00
+2025-12-07 16:44:50,314 - INFO - [smc] - [2025-06-24 10:00:00] Price: $143.9900 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $95,384,319
+2025-12-07 16:44:50,366 - INFO - [smc] - 📈 Открыта позиция BUY @ 143.4100 | Size: 55.7975 | SL: 140.2222 | TP: 147.6100 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:44:50,381 - INFO - [smc] - 📈 Открыта позиция BUY @ 143.1993 | Size: 63.6079 | SL: 140.3946 | TP: 147.9300 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:44:50,388 - INFO - [smc] - 📈 Открыта позиция BUY @ 143.5594 | Size: 56.4107 | SL: 140.4078 | TP: 147.9300 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:44:50,396 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $240.89 | Причина: TAKE_PROFIT | Удержание: 0 days 11:00:00
+2025-12-07 16:44:50,398 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $297.39 | Причина: TAKE_PROFIT | Удержание: 0 days 05:00:00
+2025-12-07 16:44:50,401 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $241.82 | Причина: TAKE_PROFIT | Удержание: 0 days 04:00:00
+2025-12-07 16:44:50,413 - INFO - [smc] - 📈 Открыта позиция BUY @ 143.7894 | Size: 56.6346 | SL: 140.4442 | TP: 147.9900 | Reason: Mitigation of Bullish OB | Conf: 0.97
+2025-12-07 16:44:50,419 - INFO - [smc] - 📈 Открыта позиция BUY @ 143.5191 | Size: 62.7790 | SL: 140.4946 | TP: 147.9900 | Reason: Mitigation of Bullish OB | Conf: 0.97
+2025-12-07 16:44:50,425 - INFO - [smc] - [2025-06-26 12:00:00] Price: $142.9400 | Conf: 0.97 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $115,861,751
+2025-12-07 16:44:50,429 - INFO - [smc] - 📈 Открыта позиция BUY @ 143.0186 | Size: 78.4757 | SL: 140.5845 | TP: 147.9900 | Reason: Mitigation of Bullish OB | Conf: 0.97
+2025-12-07 16:44:50,446 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-180.81 | Причина: STOP_LOSS | Удержание: 0 days 12:00:00
+2025-12-07 16:44:50,449 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-182.14 | Причина: STOP_LOSS | Удержание: 0 days 11:00:00
+2025-12-07 16:44:50,450 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-185.91 | Причина: STOP_LOSS | Удержание: 0 days 09:00:00
+2025-12-07 16:44:50,514 - INFO - [smc] - [2025-06-28 14:00:00] Price: $146.7600 | Conf: -0.06 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $93,259,244
+2025-12-07 16:44:50,582 - INFO - [smc] - 📈 Открыта позиция BUY @ 150.4612 | Size: 69.4900 | SL: 147.8393 | TP: 154.7700 | Reason: Mitigation of Bullish OB | Conf: 0.99
+2025-12-07 16:44:50,587 - INFO - [smc] - 📈 Открыта позиция BUY @ 150.6513 | Size: 64.8366 | SL: 147.8479 | TP: 154.7700 | Reason: Mitigation of Bullish OB | Conf: 0.99
+2025-12-07 16:44:50,592 - INFO - [smc] - 📈 Открыта позиция BUY @ 149.8409 | Size: 91.0213 | SL: 147.8216 | TP: 154.7700 | Reason: Mitigation of Bullish OB | Conf: 0.99
+2025-12-07 16:44:50,606 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $303.74 | Причина: TAKE_PROFIT | Удержание: 0 days 09:00:00
+2025-12-07 16:44:50,609 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $269.14 | Причина: TAKE_PROFIT | Удержание: 0 days 08:00:00
+2025-12-07 16:44:50,611 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $448.78 | Причина: TAKE_PROFIT | Удержание: 0 days 07:00:00
+2025-12-07 16:44:50,613 - INFO - [smc] - [2025-06-30 16:00:00] Price: $156.9700 | Conf: -0.20 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $397,718,229
+2025-12-07 16:44:50,642 - INFO - [smc] - 📈 Открыта позиция BUY @ 150.0633 | Size: 61.7953 | SL: 146.8782 | TP: 160.0000 | Reason: Mitigation of Bullish OB | Conf: 0.99
+2025-12-07 16:44:50,652 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-115.18 | Причина: TREND_REVERSAL | Удержание: 0 days 05:00:00
+2025-12-07 16:44:50,707 - INFO - [smc] - ✅ УЛУЧШЕННЫЙ бектест завершен | Финальный баланс: $12,659.40 | Total Return: 26.59%
+2025-12-07 16:44:50,707 - INFO - [smc] - 📊 Сделок: 89 | Win Rate: 47.2% | Profit Factor: 1.45
+2025-12-07 16:44:50,707 - INFO - [smc] - 📈 Sharpe Ratio: -1.34 | Sortino Ratio: 10.00
+2025-12-07 16:44:50,707 - INFO - [smc] - ⚠️ Max Drawdown: 21.65% | Recovery Factor: 1.23
+2025-12-07 16:44:50,779 - INFO - [smc] - Создание графиков результатов: backtests\enhanced_SOLUSDT_1h_20251207_164450
+2025-12-07 16:44:52,459 - INFO - [smc] - ✅ Получено 500 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 16:44:53,980 - INFO - [smc] - Основной график сохранён: backtests\enhanced_SOLUSDT_1h_20251207_164450\chart_main.png
+2025-12-07 16:44:54,627 - INFO - [smc] - Дашборд производительности сохранён: backtests\enhanced_SOLUSDT_1h_20251207_164450\chart_performance.png
+2025-12-07 16:44:55,504 - INFO - [smc] - Анализ сделок сохранён: backtests\enhanced_SOLUSDT_1h_20251207_164450\chart_trades.png
+2025-12-07 16:44:56,696 - INFO - [smc] - Комбинированный график сохранён: backtests\enhanced_SOLUSDT_1h_20251207_164450\enhanced_backtest_chart.png
+2025-12-07 16:44:56,696 - INFO - [smc] - Графики успешно сохранены в: backtests\enhanced_SOLUSDT_1h_20251207_164450
+2025-12-07 16:49:41,063 - INFO - [smc] - 🚀 Запуск УЛУЧШЕННОГО бектеста для SOLUSDT на интервале 1h
+2025-12-07 16:49:41,063 - INFO - [smc] - ⏰ Период: 2025-11-06 09:49:41.063806+00:00 - 2025-12-06 09:49:41.063806+00:00
+2025-12-07 16:49:42,283 - INFO - [smc] - ✅ Получено 720 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 16:49:42,283 - INFO - [smc] - 📊 Средний объем за последние 100 свечей: $137,434,081.54
+2025-12-07 16:49:42,283 - INFO - [smc] - ✅ Получено 720 свечей для анализа
+2025-12-07 16:50:03,519 - INFO - [smc] - [2025-11-12 16:00:00] Price: $152.7300 | Conf: -0.20 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $521,162,403
+2025-12-07 16:50:03,569 - INFO - [smc] - [2025-11-14 18:00:00] Price: $141.2200 | Conf: 0.25 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $154,749,547
+2025-12-07 16:50:03,610 - INFO - [smc] - 📈 Открыта позиция SELL @ 143.1107 | Size: 39.9135 | SL: 146.9481 | TP: 137.2800 | Reason: Mitigation of Bearish OB | Conf: 0.82
+2025-12-07 16:50:03,614 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.7812 | Size: 37.5559 | SL: 146.8529 | TP: 137.2800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:50:03,620 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $230.89 | Причина: TAKE_PROFIT | Удержание: 0 days 06:00:00
+2025-12-07 16:50:03,623 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $203.80 | Причина: TAKE_PROFIT | Удержание: 0 days 05:00:00
+2025-12-07 16:50:03,628 - INFO - [smc] - [2025-11-16 20:00:00] Price: $136.5900 | Conf: 0.09 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $69,224,688
+2025-12-07 16:50:03,645 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.2007 | Size: 33.7056 | SL: 145.9213 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:50:03,649 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.8404 | Size: 39.1272 | SL: 145.9173 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:50:03,658 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $218.05 | Причина: TAKE_PROFIT | Удержание: 0 days 08:00:00
+2025-12-07 16:50:03,660 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $277.07 | Причина: TAKE_PROFIT | Удержание: 0 days 07:00:00
+2025-12-07 16:50:03,696 - INFO - [smc] - 📈 Открыта позиция SELL @ 140.8974 | Size: 27.5201 | SL: 146.9315 | TP: 128.7000 | Reason: Mitigation of Bearish OB | Conf: 0.74
+2025-12-07 16:50:03,708 - INFO - [smc] - [2025-11-18 22:00:00] Price: $141.3400 | Conf: -0.02 | Decision: SELL | Quality: OB | Swing bias: BEARISH | Volume: $78,083,308
+2025-12-07 16:50:03,761 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-64.55 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 16:50:03,784 - INFO - [smc] - [2025-11-21 00:00:00] Price: $134.1100 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $135,141,411
+2025-12-07 16:50:03,838 - INFO - [smc] - [2025-11-23 02:00:00] Price: $129.9300 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $135,898,071
+2025-12-07 16:50:03,877 - INFO - [smc] - 📈 Открыта позиция SELL @ 133.5637 | Size: 45.6768 | SL: 137.2039 | TP: 128.3400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:50:03,881 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-173.60 | Причина: STOP_LOSS | Удержание: 0 days 02:00:00
+2025-12-07 16:50:03,892 - INFO - [smc] - [2025-11-25 04:00:00] Price: $138.4800 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $72,747,286
+2025-12-07 16:50:03,946 - INFO - [smc] - [2025-11-27 06:00:00] Price: $143.8700 | Conf: -0.87 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $93,825,077
+2025-12-07 16:50:03,985 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.3618 | Size: 57.3550 | SL: 145.2321 | TP: 138.8400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:50:03,989 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.4416 | Size: 58.0264 | SL: 145.2787 | TP: 138.8400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:50:03,993 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $194.39 | Причина: TAKE_PROFIT | Удержание: 0 days 03:00:00
+2025-12-07 16:50:03,996 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $199.64 | Причина: TAKE_PROFIT | Удержание: 0 days 02:00:00
+2025-12-07 16:50:04,014 - INFO - [smc] - [2025-11-29 08:00:00] Price: $136.9300 | Conf: -0.85 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $49,125,608
+2025-12-07 16:50:04,059 - WARNING - [smc] - R:R (1.16) failed after slippage, skipping.
+2025-12-07 16:50:04,084 - INFO - [smc] - [2025-12-01 10:00:00] Price: $127.1700 | Conf: 0.33 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $36,010,041
+2025-12-07 16:50:04,110 - INFO - [smc] - 📈 Открыта позиция SELL @ 127.1388 | Size: 55.6073 | SL: 130.1939 | TP: 123.0500 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:50:04,128 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-166.91 | Причина: STOP_LOSS | Удержание: 0 days 10:00:00
+2025-12-07 16:50:04,157 - INFO - [smc] - [2025-12-03 12:00:00] Price: $141.8500 | Conf: -0.90 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $80,736,407
+2025-12-07 16:50:04,208 - INFO - [smc] - 📈 Открыта позиция BUY @ 140.7586 | Size: 35.9653 | SL: 136.1376 | TP: 146.8700 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 16:50:04,212 - INFO - [smc] - 📈 Открыта позиция BUY @ 139.6786 | Size: 45.1446 | SL: 135.9820 | TP: 146.8700 | Reason: Mitigation of Bullish OB | Conf: 0.98
+2025-12-07 16:50:04,229 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-157.70 | Причина: STOP_LOSS | Удержание: 0 days 16:00:00
+2025-12-07 16:50:04,235 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-153.80 | Причина: STOP_LOSS | Удержание: 0 days 18:00:00
+2025-12-07 16:50:04,237 - INFO - [smc] - [2025-12-05 14:00:00] Price: $134.6700 | Conf: 0.33 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $208,500,698
+2025-12-07 16:50:04,259 - INFO - [smc] - ✅ УЛУЧШЕННЫЙ бектест завершен | Финальный баланс: $10,574.16 | Total Return: 5.74%
+2025-12-07 16:50:04,259 - INFO - [smc] - 📊 Сделок: 11 | Win Rate: 54.5% | Profit Factor: 1.85
+2025-12-07 16:50:04,259 - INFO - [smc] - 📈 Sharpe Ratio: -0.52 | Sortino Ratio: 10.00
+2025-12-07 16:50:04,259 - INFO - [smc] - ⚠️ Max Drawdown: 10.91% | Recovery Factor: 0.53
+2025-12-07 16:50:04,269 - INFO - [smc] - 🎨 Генерация Smart-графика: backtests\enhanced_SOLUSDT_1h_20251207_165004\enhanced_backtest_chart.png
+2025-12-07 16:50:04,747 - INFO - [smc] - ✅ Получено 720 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 16:50:05,968 - INFO - [smc] - ✅ График успешно сохранён: backtests\enhanced_SOLUSDT_1h_20251207_165004\enhanced_backtest_chart.png
+2025-12-07 16:50:32,997 - INFO - [smc] - 🚀 Запуск УЛУЧШЕННОГО бектеста для SOLUSDT на интервале 1h
+2025-12-07 16:50:32,997 - INFO - [smc] - ⏰ Период: 2025-09-07 09:50:32.996903+00:00 - 2025-12-06 09:50:32.996903+00:00
+2025-12-07 16:50:34,860 - INFO - [smc] - ✅ Получено 2160 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 16:50:34,861 - INFO - [smc] - 📊 Средний объем за последние 100 свечей: $137,434,081.54
+2025-12-07 16:50:34,861 - INFO - [smc] - ✅ Получено 2160 свечей для анализа
+2025-12-07 16:53:33,965 - INFO - [smc] - [2025-09-13 16:00:00] Price: $237.4700 | Conf: 0.60 | Decision: HOLD | Quality: LOW | Swing bias: NEUTRAL | Volume: $404,369,121
+2025-12-07 16:53:34,037 - INFO - [smc] - [2025-09-15 18:00:00] Price: $233.1600 | Conf: -0.20 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $171,079,688
+2025-12-07 16:53:34,068 - WARNING - [smc] - R:R (1.19) failed after slippage, skipping.
+2025-12-07 16:53:34,120 - INFO - [smc] - 📈 Открыта позиция BUY @ 233.7971 | Size: 26.9440 | SL: 228.1029 | TP: 240.8700 | Reason: Mitigation of Bullish OB | Conf: 0.74
+2025-12-07 16:53:34,153 - INFO - [smc] - [2025-09-17 20:00:00] Price: $237.9000 | Conf: -0.89 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $425,922,600
+2025-12-07 16:53:34,159 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $203.19 | Причина: TAKE_PROFIT | Удержание: 0 days 18:00:00
+2025-12-07 16:53:34,205 - INFO - [smc] - 📈 Открыта позиция BUY @ 245.0632 | Size: 27.0037 | SL: 239.2641 | TP: 253.4900 | Reason: Mitigation of Bullish OB | Conf: 0.67
+2025-12-07 16:53:34,209 - INFO - [smc] - 📈 Открыта позиция BUY @ 245.0433 | Size: 26.8581 | SL: 239.2152 | TP: 253.4900 | Reason: Mitigation of Bullish OB | Conf: 0.67
+2025-12-07 16:53:34,221 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-77.90 | Причина: TREND_REVERSAL | Удержание: 0 days 07:00:00
+2025-12-07 16:53:34,223 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-78.27 | Причина: TREND_REVERSAL | Удержание: 0 days 06:00:00
+2025-12-07 16:53:34,242 - INFO - [smc] - [2025-09-19 22:00:00] Price: $238.3800 | Conf: -0.67 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $66,651,170
+2025-12-07 16:53:34,303 - INFO - [smc] - 📈 Открыта позиция BUY @ 238.5059 | Size: 59.0440 | SL: 235.8301 | TP: 241.7300 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 16:53:34,307 - INFO - [smc] - 📈 Открыта позиция BUY @ 238.3858 | Size: 62.1629 | SL: 235.8397 | TP: 241.7300 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 16:53:34,328 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-142.75 | Причина: STOP_LOSS | Удержание: 0 days 13:00:00
+2025-12-07 16:53:34,330 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-145.21 | Причина: STOP_LOSS | Удержание: 0 days 12:00:00
+2025-12-07 16:53:34,334 - INFO - [smc] - [2025-09-22 00:00:00] Price: $232.1300 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $736,313,352
+2025-12-07 16:53:34,397 - INFO - [smc] - 📈 Открыта позиция SELL @ 219.6176 | Size: 27.5632 | SL: 225.0378 | TP: 212.2800 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:53:34,414 - INFO - [smc] - 📈 Открыта позиция SELL @ 220.1667 | Size: 29.6466 | SL: 225.2139 | TP: 212.2800 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:53:34,432 - INFO - [smc] - [2025-09-24 02:00:00] Price: $214.1600 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $257,418,433
+2025-12-07 16:53:34,436 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $211.11 | Причина: TAKE_PROFIT | Удержание: 0 days 15:00:00
+2025-12-07 16:53:34,438 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $238.17 | Причина: TAKE_PROFIT | Удержание: 0 days 11:00:00
+2025-12-07 16:53:34,512 - INFO - [smc] - [2025-09-26 04:00:00] Price: $195.6400 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $136,159,410
+2025-12-07 16:53:34,533 - INFO - [smc] - 📈 Открыта позиция SELL @ 199.3340 | Size: 24.3198 | SL: 205.7275 | TP: 190.7200 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:53:34,602 - INFO - [smc] - [2025-09-28 06:00:00] Price: $201.6200 | Conf: -0.93 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $107,631,345
+2025-12-07 16:53:34,611 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $1.48 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 17:00:00
+2025-12-07 16:53:34,685 - INFO - [smc] - [2025-09-30 08:00:00] Price: $207.6800 | Conf: 0.78 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $142,495,375
+2025-12-07 16:53:34,690 - INFO - [smc] - 📈 Открыта позиция BUY @ 205.9128 | Size: 35.3630 | SL: 201.4832 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:53:34,695 - INFO - [smc] - 📈 Открыта позиция BUY @ 206.5630 | Size: 31.0688 | SL: 201.5384 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:53:34,736 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $331.82 | Причина: TAKE_PROFIT | Удержание: 0 days 23:00:00
+2025-12-07 16:53:34,737 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $270.13 | Причина: TAKE_PROFIT | Удержание: 0 days 22:00:00
+2025-12-07 16:53:34,779 - INFO - [smc] - [2025-10-02 10:00:00] Price: $224.9700 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $103,985,186
+2025-12-07 16:53:34,855 - INFO - [smc] - [2025-10-04 12:00:00] Price: $228.0300 | Conf: 0.33 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $89,688,374
+2025-12-07 16:53:34,888 - INFO - [smc] - 📈 Открыта позиция SELL @ 236.3519 | Size: 34.1189 | SL: 241.2158 | TP: 224.0000 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:53:34,936 - INFO - [smc] - [2025-10-06 14:00:00] Price: $233.2400 | Conf: 0.97 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $321,874,213
+2025-12-07 16:53:34,977 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $288.25 | Причина: TIME_EXPIRED_PROFIT | Удержание: 2 days 01:00:00
+2025-12-07 16:53:35,025 - INFO - [smc] - [2025-10-08 16:00:00] Price: $223.4400 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $166,348,251
+2025-12-07 16:53:35,101 - INFO - [smc] - [2025-10-10 18:00:00] Price: $207.3600 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $322,932,316
+2025-12-07 16:53:35,161 - WARNING - [smc] - R:R (1.20) failed after slippage, skipping.
+2025-12-07 16:53:35,184 - INFO - [smc] - [2025-10-12 20:00:00] Price: $196.5600 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $279,425,439
+2025-12-07 16:53:35,238 - INFO - [smc] - 📈 Открыта позиция BUY @ 195.3661 | Size: 15.3502 | SL: 184.4460 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:53:35,243 - INFO - [smc] - 📈 Открыта позиция BUY @ 194.4558 | Size: 16.7168 | SL: 184.4206 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:53:35,270 - INFO - [smc] - [2025-10-14 22:00:00] Price: $201.3600 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $102,165,707
+2025-12-07 16:53:35,305 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $7.06 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 16:53:35,309 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $13.11 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 16:53:35,363 - INFO - [smc] - [2025-10-17 00:00:00] Price: $186.1900 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $149,873,302
+2025-12-07 16:53:35,440 - INFO - [smc] - [2025-10-19 02:00:00] Price: $185.7000 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $56,010,375
+2025-12-07 16:53:35,541 - INFO - [smc] - [2025-10-21 04:00:00] Price: $183.6600 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $335,550,681
+2025-12-07 16:53:35,647 - INFO - [smc] - [2025-10-23 06:00:00] Price: $187.3400 | Conf: -0.96 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $233,803,398
+2025-12-07 16:53:35,732 - INFO - [smc] - [2025-10-25 08:00:00] Price: $194.7700 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $93,471,017
+2025-12-07 16:53:35,807 - INFO - [smc] - [2025-10-27 10:00:00] Price: $200.3400 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $99,498,899
+2025-12-07 16:53:35,827 - INFO - [smc] - 📈 Открыта позиция BUY @ 198.7388 | Size: 35.0958 | SL: 193.8973 | TP: 205.3000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:53:35,832 - INFO - [smc] - 📈 Открыта позиция BUY @ 198.7488 | Size: 34.9202 | SL: 193.8850 | TP: 205.3000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 16:53:35,874 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-147.20 | Причина: STOP_LOSS | Удержание: 1 days 00:00:00
+2025-12-07 16:53:35,876 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-148.63 | Причина: STOP_LOSS | Удержание: 0 days 23:00:00
+2025-12-07 16:53:35,904 - INFO - [smc] - [2025-10-29 12:00:00] Price: $199.8000 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $136,357,244
+2025-12-07 16:53:35,983 - INFO - [smc] - [2025-10-31 14:00:00] Price: $188.9800 | Conf: -0.96 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $234,416,494
+2025-12-07 16:53:36,069 - INFO - [smc] - [2025-11-02 16:00:00] Price: $184.2000 | Conf: -0.88 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $265,457,566
+2025-12-07 16:53:36,146 - INFO - [smc] - [2025-11-04 18:00:00] Price: $156.3500 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $545,015,657
+2025-12-07 16:53:36,200 - INFO - [smc] - 📈 Открыта позиция BUY @ 155.9198 | Size: 27.9848 | SL: 150.0570 | TP: 163.8800 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 16:53:36,204 - INFO - [smc] - 📈 Открыта позиция BUY @ 155.4198 | Size: 30.1414 | SL: 149.9711 | TP: 163.8800 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 16:53:36,210 - INFO - [smc] - [2025-11-06 20:00:00] Price: $155.2200 | Conf: -0.11 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $159,490,122
+2025-12-07 16:53:36,232 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-110.15 | Причина: TREND_REVERSAL | Удержание: 0 days 21:00:00
+2025-12-07 16:53:36,234 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-104.56 | Причина: TREND_REVERSAL | Удержание: 0 days 20:00:00
+2025-12-07 16:53:36,276 - INFO - [smc] - [2025-11-08 22:00:00] Price: $157.9100 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $27,720,398
+2025-12-07 16:53:36,338 - INFO - [smc] - [2025-11-11 00:00:00] Price: $167.4200 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $82,524,946
+2025-12-07 16:53:36,432 - INFO - [smc] - [2025-11-13 02:00:00] Price: $152.8200 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $76,676,863
+2025-12-07 16:53:36,503 - INFO - [smc] - [2025-11-15 04:00:00] Price: $142.3200 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $66,960,581
+2025-12-07 16:53:36,543 - INFO - [smc] - 📈 Открыта позиция SELL @ 143.1107 | Size: 42.1138 | SL: 146.9481 | TP: 137.2800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:53:36,547 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.7812 | Size: 39.6262 | SL: 146.8529 | TP: 137.2800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:53:36,557 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $243.62 | Причина: TAKE_PROFIT | Удержание: 0 days 06:00:00
+2025-12-07 16:53:36,558 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $215.03 | Причина: TAKE_PROFIT | Удержание: 0 days 05:00:00
+2025-12-07 16:53:36,577 - INFO - [smc] - [2025-11-17 06:00:00] Price: $141.3200 | Conf: -0.83 | Decision: SELL | Quality: OB | Swing bias: BEARISH | Volume: $90,266,861
+2025-12-07 16:53:36,586 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.2007 | Size: 35.5636 | SL: 145.9213 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 16:53:36,590 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.8404 | Size: 41.2840 | SL: 145.9173 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 16:53:36,602 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $230.07 | Причина: TAKE_PROFIT | Удержание: 0 days 08:00:00
+2025-12-07 16:53:36,604 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $292.34 | Причина: TAKE_PROFIT | Удержание: 0 days 07:00:00
+2025-12-07 16:53:36,647 - INFO - [smc] - 📈 Открыта позиция SELL @ 140.8974 | Size: 29.0372 | SL: 146.9315 | TP: 128.7000 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 16:53:36,684 - INFO - [smc] - [2025-11-19 08:00:00] Price: $140.1100 | Conf: 0.83 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $100,108,912
+2025-12-07 16:53:36,721 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-68.10 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 16:53:36,765 - INFO - [smc] - [2025-11-21 10:00:00] Price: $125.0100 | Conf: -0.16 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $503,547,124
+2025-12-07 16:53:36,827 - INFO - [smc] - [2025-11-23 12:00:00] Price: $130.7800 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $162,982,489
+2025-12-07 16:53:36,864 - INFO - [smc] - 📈 Открыта позиция SELL @ 133.5637 | Size: 48.1947 | SL: 137.2039 | TP: 128.3400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:53:36,869 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-183.17 | Причина: STOP_LOSS | Удержание: 0 days 02:00:00
+2025-12-07 16:53:36,895 - INFO - [smc] - [2025-11-25 14:00:00] Price: $134.5900 | Conf: 0.83 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $309,056,632
+2025-12-07 16:53:36,959 - INFO - [smc] - [2025-11-27 16:00:00] Price: $142.1000 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $106,503,799
+2025-12-07 16:53:36,995 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.3618 | Size: 60.5167 | SL: 145.2321 | TP: 138.8400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:53:36,998 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.4416 | Size: 61.2251 | SL: 145.2787 | TP: 138.8400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 16:53:37,004 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $205.10 | Причина: TAKE_PROFIT | Удержание: 0 days 03:00:00
+2025-12-07 16:53:37,005 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $210.65 | Причина: TAKE_PROFIT | Удержание: 0 days 02:00:00
+2025-12-07 16:53:37,039 - INFO - [smc] - [2025-11-29 18:00:00] Price: $135.6100 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $181,604,457
+2025-12-07 16:53:37,079 - WARNING - [smc] - R:R (1.16) failed after slippage, skipping.
+2025-12-07 16:53:37,121 - INFO - [smc] - [2025-12-01 20:00:00] Price: $124.3400 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $134,978,834
+2025-12-07 16:53:37,139 - INFO - [smc] - 📈 Открыта позиция SELL @ 127.1388 | Size: 58.6726 | SL: 130.1939 | TP: 123.0500 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 16:53:37,159 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-176.11 | Причина: STOP_LOSS | Удержание: 0 days 10:00:00
+2025-12-07 16:53:37,209 - INFO - [smc] - [2025-12-03 22:00:00] Price: $144.5100 | Conf: -0.20 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $338,180,247
+2025-12-07 16:53:37,250 - INFO - [smc] - 📈 Открыта позиция BUY @ 140.7586 | Size: 37.9479 | SL: 136.1376 | TP: 146.8700 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 16:53:37,254 - INFO - [smc] - 📈 Открыта позиция BUY @ 139.6786 | Size: 47.6332 | SL: 135.9820 | TP: 146.8700 | Reason: Mitigation of Bullish OB | Conf: 0.99
+2025-12-07 16:53:37,276 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-166.40 | Причина: STOP_LOSS | Удержание: 0 days 16:00:00
+2025-12-07 16:53:37,282 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-162.28 | Причина: STOP_LOSS | Удержание: 0 days 18:00:00
+2025-12-07 16:53:37,298 - INFO - [smc] - [2025-12-06 00:00:00] Price: $133.3800 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $47,971,016
+2025-12-07 16:53:37,315 - INFO - [smc] - ✅ УЛУЧШЕННЫЙ бектест завершен | Финальный баланс: $11,157.05 | Total Return: 11.57%
+2025-12-07 16:53:37,317 - INFO - [smc] - 📊 Сделок: 28 | Win Rate: 53.6% | Profit Factor: 1.73
+2025-12-07 16:53:37,317 - INFO - [smc] - 📈 Sharpe Ratio: -1.21 | Sortino Ratio: 10.00
+2025-12-07 16:53:37,317 - INFO - [smc] - ⚠️ Max Drawdown: 13.56% | Recovery Factor: 0.85
+2025-12-07 16:53:37,352 - INFO - [smc] - 🎨 Генерация Smart-графика: backtests\enhanced_SOLUSDT_1h_20251207_165337\enhanced_backtest_chart.png
+2025-12-07 16:53:38,021 - INFO - [smc] - ✅ Получено 1500 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 16:53:39,925 - INFO - [smc] - ✅ График успешно сохранён: backtests\enhanced_SOLUSDT_1h_20251207_165337\enhanced_backtest_chart.png
+2025-12-07 16:57:05,259 - INFO - [smc] - 🚀 Запуск УЛУЧШЕННОГО бектеста для BTCUSDT на интервале 1h
+2025-12-07 16:57:05,260 - INFO - [smc] - ⏰ Период: 2025-09-07 09:57:05.259278+00:00 - 2025-12-06 09:57:05.259278+00:00
+2025-12-07 16:57:07,311 - INFO - [smc] - ✅ Получено 2160 валидных свечей для BTCUSDT на интервале 1h
+2025-12-07 16:57:07,312 - INFO - [smc] - 📊 Средний объем за последние 100 свечей: $681,791,141.58
+2025-12-07 16:57:07,313 - INFO - [smc] - ✅ Получено 2160 свечей для анализа
+2025-12-07 17:00:24,654 - INFO - [smc] - [2025-09-13 16:00:00] Price: $115286.6000 | Conf: -0.88 | Decision: SELL | Quality: OB | Swing bias: BEARISH | Volume: $945,301,008
+2025-12-07 17:00:24,729 - INFO - [smc] - 📈 Открыта позиция SELL @ 115975.6634 | Size: 0.1638 | SL: 116578.8246 | TP: 115100.5000 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:00:24,733 - INFO - [smc] - 📈 Открыта позиция SELL @ 115909.3953 | Size: 0.1637 | SL: 116576.8085 | TP: 115100.5000 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:00:24,737 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $124.22 | Причина: TAKE_PROFIT | Удержание: 0 days 02:00:00
+2025-12-07 17:00:24,739 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $109.53 | Причина: TAKE_PROFIT | Удержание: 0 days 01:00:00
+2025-12-07 17:00:24,751 - INFO - [smc] - 📈 Открыта позиция SELL @ 115958.6114 | Size: 0.1673 | SL: 116607.2415 | TP: 115100.5000 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:00:24,756 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-128.30 | Причина: STOP_LOSS | Удержание: 0 days 02:00:00
+2025-12-07 17:00:24,775 - INFO - [smc] - [2025-09-15 18:00:00] Price: $115252.7000 | Conf: -0.33 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $356,448,018
+2025-12-07 17:00:24,863 - INFO - [smc] - [2025-09-17 20:00:00] Price: $115561.5000 | Conf: -0.34 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $507,723,495
+2025-12-07 17:00:24,938 - INFO - [smc] - [2025-09-19 22:00:00] Price: $115550.5000 | Conf: 0.28 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $165,071,747
+2025-12-07 17:00:25,034 - INFO - [smc] - 📈 Открыта позиция BUY @ 115512.1095 | Size: 0.1658 | SL: 115034.1891 | TP: 116059.2000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:25,072 - INFO - [smc] - [2025-09-22 00:00:00] Price: $114335.9000 | Conf: -0.35 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $1,818,023,932
+2025-12-07 17:00:25,074 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-52.56 | Причина: STOP_LOSS | Удержание: 0 days 14:00:00
+2025-12-07 17:00:25,128 - INFO - [smc] - 📈 Открыта позиция SELL @ 112876.7519 | Size: 0.1685 | SL: 113759.3305 | TP: 111866.3000 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:00:25,147 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $185.28 | Причина: TAKE_PROFIT | Удержание: 0 days 11:00:00
+2025-12-07 17:00:25,163 - INFO - [smc] - [2025-09-24 02:00:00] Price: $112070.2000 | Conf: 0.12 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $657,212,601
+2025-12-07 17:00:25,212 - INFO - [smc] - 📈 Открыта позиция BUY @ 111731.1398 | Size: 0.0979 | SL: 110122.7240 | TP: 113895.8000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:25,218 - INFO - [smc] - 📈 Открыта позиция BUY @ 111737.2172 | Size: 0.0980 | SL: 110132.1009 | TP: 113895.8000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:25,224 - INFO - [smc] - 📈 Открыта позиция BUY @ 111521.0782 | Size: 0.1155 | SL: 110151.8330 | TP: 113895.8000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:25,251 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-144.45 | Причина: STOP_LOSS | Удержание: 0 days 13:00:00
+2025-12-07 17:00:25,253 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-146.55 | Причина: STOP_LOSS | Удержание: 0 days 12:00:00
+2025-12-07 17:00:25,255 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-147.97 | Причина: STOP_LOSS | Удержание: 0 days 11:00:00
+2025-12-07 17:00:25,277 - INFO - [smc] - [2025-09-26 04:00:00] Price: $109300.0000 | Conf: -0.16 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $225,899,819
+2025-12-07 17:00:25,378 - INFO - [smc] - [2025-09-28 06:00:00] Price: $109358.7000 | Conf: 0.26 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $122,408,583
+2025-12-07 17:00:25,465 - INFO - [smc] - [2025-09-30 08:00:00] Price: $113409.2000 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $585,648,057
+2025-12-07 17:00:25,543 - INFO - [smc] - [2025-10-02 10:00:00] Price: $118575.3000 | Conf: -0.26 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $278,866,695
+2025-12-07 17:00:25,613 - INFO - [smc] - [2025-10-04 12:00:00] Price: $121955.0000 | Conf: -0.12 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $195,485,084
+2025-12-07 17:00:25,700 - INFO - [smc] - [2025-10-06 14:00:00] Price: $124475.9000 | Conf: -0.42 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $1,597,170,562
+2025-12-07 17:00:25,736 - INFO - [smc] - 📈 Открыта позиция BUY @ 123904.6272 | Size: 0.0827 | SL: 122086.1990 | TP: 126208.5000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:25,740 - INFO - [smc] - 📈 Открыта позиция BUY @ 123679.0040 | Size: 0.0955 | SL: 122098.5777 | TP: 126208.5000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:00:25,745 - INFO - [smc] - 📈 Открыта позиция BUY @ 123865.0995 | Size: 0.0847 | SL: 122090.6686 | TP: 126208.5000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:25,760 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-146.34 | Причина: STOP_LOSS | Удержание: 0 days 09:00:00
+2025-12-07 17:00:25,762 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-148.69 | Причина: STOP_LOSS | Удержание: 0 days 08:00:00
+2025-12-07 17:00:25,764 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-150.38 | Причина: STOP_LOSS | Удержание: 0 days 07:00:00
+2025-12-07 17:00:25,805 - INFO - [smc] - [2025-10-08 16:00:00] Price: $122999.9000 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $686,157,402
+2025-12-07 17:00:25,824 - INFO - [smc] - 📈 Открыта позиция BUY @ 121624.7557 | Size: 0.0835 | SL: 119907.8764 | TP: 124170.6000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:25,863 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-129.34 | Причина: STOP_LOSS | Удержание: 0 days 14:00:00
+2025-12-07 17:00:25,906 - INFO - [smc] - [2025-10-10 18:00:00] Price: $117178.5000 | Conf: -0.98 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $991,135,125
+2025-12-07 17:00:25,989 - INFO - [smc] - [2025-10-12 20:00:00] Price: $114864.5000 | Conf: -0.38 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $1,308,292,756
+2025-12-07 17:00:26,083 - INFO - [smc] - [2025-10-14 22:00:00] Price: $113150.1000 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $480,453,768
+2025-12-07 17:00:26,162 - INFO - [smc] - [2025-10-17 00:00:00] Price: $108738.1000 | Conf: 0.87 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $464,188,487
+2025-12-07 17:00:26,246 - INFO - [smc] - [2025-10-19 02:00:00] Price: $106796.7000 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $122,076,531
+2025-12-07 17:00:26,346 - INFO - [smc] - [2025-10-21 04:00:00] Price: $107743.4000 | Conf: 0.98 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $1,642,576,900
+2025-12-07 17:00:26,438 - INFO - [smc] - [2025-10-23 06:00:00] Price: $110180.2000 | Conf: 0.88 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $1,471,882,528
+2025-12-07 17:00:26,519 - INFO - [smc] - [2025-10-25 08:00:00] Price: $111716.0000 | Conf: 0.98 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $254,376,662
+2025-12-07 17:00:26,602 - INFO - [smc] - [2025-10-27 10:00:00] Price: $115411.8000 | Conf: -0.87 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $302,496,174
+2025-12-07 17:00:26,661 - INFO - [smc] - 📈 Открыта позиция SELL @ 115421.5988 | Size: 0.1284 | SL: 116537.2535 | TP: 113422.0000 | Reason: Mitigation of Bearish OB | Conf: 0.98
+2025-12-07 17:00:26,670 - INFO - [smc] - 📈 Открыта позиция SELL @ 115247.2887 | Size: 0.0939 | SL: 116754.6195 | TP: 113422.0000 | Reason: Mitigation of Bearish OB | Conf: 0.98
+2025-12-07 17:00:26,675 - INFO - [smc] - 📈 Открыта позиция SELL @ 115197.9910 | Size: 0.0927 | SL: 116723.6646 | TP: 113422.0000 | Reason: Mitigation of Bearish OB | Conf: 0.98
+2025-12-07 17:00:26,684 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $256.62 | Причина: TAKE_PROFIT | Удержание: 0 days 07:00:00
+2025-12-07 17:00:26,686 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $164.77 | Причина: TAKE_PROFIT | Удержание: 0 days 04:00:00
+2025-12-07 17:00:26,689 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $155.91 | Причина: TAKE_PROFIT | Удержание: 0 days 03:00:00
+2025-12-07 17:00:26,718 - INFO - [smc] - [2025-10-29 12:00:00] Price: $113102.5000 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $195,691,868
+2025-12-07 17:00:26,823 - INFO - [smc] - [2025-10-31 14:00:00] Price: $110750.5000 | Conf: 0.94 | Decision: SELL | Quality: OB | Swing bias: BEARISH | Volume: $2,017,150,798
+2025-12-07 17:00:26,826 - INFO - [smc] - 📈 Открыта позиция SELL @ 110702.5697 | Size: 0.0668 | SL: 112926.3690 | TP: 106200.0000 | Reason: Mitigation of Bearish OB | Conf: 0.94
+2025-12-07 17:00:26,944 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $40.74 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 17:00:00
+2025-12-07 17:00:26,965 - INFO - [smc] - [2025-11-02 16:00:00] Price: $110068.1000 | Conf: 0.93 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $599,503,848
+2025-12-07 17:00:26,989 - INFO - [smc] - 📈 Открыта позиция BUY @ 109906.5113 | Size: 0.1683 | SL: 109178.3848 | TP: 111216.0000 | Reason: Mitigation of Bullish OB | Conf: 0.93
+2025-12-07 17:00:27,006 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-161.66 | Причина: STOP_LOSS | Удержание: 0 days 05:00:00
+2025-12-07 17:00:27,071 - INFO - [smc] - [2025-11-04 18:00:00] Price: $101317.3000 | Conf: -0.16 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $2,513,327,704
+2025-12-07 17:00:27,148 - INFO - [smc] - [2025-11-06 20:00:00] Price: $100873.8000 | Conf: -0.50 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $480,060,835
+2025-12-07 17:00:27,183 - INFO - [smc] - 📈 Открыта позиция SELL @ 102309.7690 | Size: 0.0905 | SL: 103938.8404 | TP: 99200.0000 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:00:27,193 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-151.67 | Причина: STOP_LOSS | Удержание: 0 days 05:00:00
+2025-12-07 17:00:27,236 - INFO - [smc] - [2025-11-08 22:00:00] Price: $102325.4000 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $131,510,037
+2025-12-07 17:00:27,314 - INFO - [smc] - [2025-11-11 00:00:00] Price: $106100.0000 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $353,300,268
+2025-12-07 17:00:27,332 - INFO - [smc] - 📈 Открыта позиция BUY @ 105247.1821 | Size: 0.0807 | SL: 103452.7036 | TP: 107473.7000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:00:27,338 - INFO - [smc] - 📈 Открыта позиция BUY @ 104781.9439 | Size: 0.1115 | SL: 103472.2712 | TP: 107473.7000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:00:27,360 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-141.46 | Причина: STOP_LOSS | Удержание: 0 days 09:00:00
+2025-12-07 17:00:27,363 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-143.92 | Причина: STOP_LOSS | Удержание: 0 days 08:00:00
+2025-12-07 17:00:27,420 - INFO - [smc] - [2025-11-13 02:00:00] Price: $102015.0000 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $264,734,740
+2025-12-07 17:00:27,500 - INFO - [smc] - [2025-11-15 04:00:00] Price: $96077.4000 | Conf: -0.83 | Decision: SELL | Quality: OB | Swing bias: BEARISH | Volume: $379,374,104
+2025-12-07 17:00:27,606 - INFO - [smc] - [2025-11-17 06:00:00] Price: $95237.3000 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $243,405,206
+2025-12-07 17:00:27,694 - INFO - [smc] - [2025-11-19 08:00:00] Price: $91435.4000 | Conf: -0.50 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $657,778,770
+2025-12-07 17:00:27,797 - INFO - [smc] - [2025-11-21 10:00:00] Price: $82673.1000 | Conf: -0.16 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $2,188,003,943
+2025-12-07 17:00:27,901 - INFO - [smc] - [2025-11-23 12:00:00] Price: $86485.1000 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $723,190,136
+2025-12-07 17:00:27,985 - INFO - [smc] - [2025-11-25 14:00:00] Price: $86695.0000 | Conf: 0.78 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $1,399,006,491
+2025-12-07 17:00:28,072 - INFO - [smc] - [2025-11-27 16:00:00] Price: $91410.1000 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $748,866,184
+2025-12-07 17:00:28,179 - INFO - [smc] - [2025-11-29 18:00:00] Price: $90652.9000 | Conf: 0.33 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $608,897,761
+2025-12-07 17:00:28,261 - INFO - [smc] - [2025-12-01 20:00:00] Price: $85474.1000 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $962,377,594
+2025-12-07 17:00:28,266 - INFO - [smc] - 📈 Открыта позиция SELL @ 86342.1981 | Size: 0.0776 | SL: 88142.2008 | TP: 83786.0000 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:00:28,307 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-126.58 | Причина: STOP_LOSS | Удержание: 0 days 17:00:00
+2025-12-07 17:00:28,363 - INFO - [smc] - [2025-12-03 22:00:00] Price: $93738.4000 | Conf: 0.33 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $689,977,897
+2025-12-07 17:00:28,418 - INFO - [smc] - 📈 Открыта позиция BUY @ 91898.8790 | Size: 0.1080 | SL: 90611.6838 | TP: 93600.0000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:00:28,465 - INFO - [smc] - 📈 Открыта позиция BUY @ 92024.9366 | Size: 0.1006 | SL: 90646.4879 | TP: 93600.0000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:28,484 - INFO - [smc] - 📈 Открыта позиция BUY @ 91125.3137 | Size: 0.0980 | SL: 89713.8401 | TP: 93600.0000 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:00:28,496 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-107.37 | Причина: STOP_LOSS | Удержание: 0 days 23:00:00
+2025-12-07 17:00:28,499 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-135.03 | Причина: STOP_LOSS | Удержание: 0 days 09:00:00
+2025-12-07 17:00:28,508 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-138.58 | Причина: STOP_LOSS | Удержание: 0 days 07:00:00
+2025-12-07 17:00:28,524 - INFO - [smc] - [2025-12-06 00:00:00] Price: $89382.2000 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $256,308,643
+2025-12-07 17:00:28,549 - INFO - [smc] - ✅ УЛУЧШЕННЫЙ бектест завершен | Финальный баланс: $8,586.49 | Total Return: -14.14%
+2025-12-07 17:00:28,549 - INFO - [smc] - 📊 Сделок: 24 | Win Rate: 29.2% | Profit Factor: 0.45
+2025-12-07 17:00:28,549 - INFO - [smc] - 📈 Sharpe Ratio: -1.05 | Sortino Ratio: 10.00
+2025-12-07 17:00:28,549 - INFO - [smc] - ⚠️ Max Drawdown: 23.64% | Recovery Factor: -0.60
+2025-12-07 17:00:28,587 - INFO - [smc] - 🎨 Генерация Smart-графика: backtests\enhanced_BTCUSDT_1h_20251207_170028\enhanced_backtest_chart.png
+2025-12-07 17:00:29,171 - INFO - [smc] - ✅ Получено 1500 валидных свечей для BTCUSDT на интервале 1h
+2025-12-07 17:00:32,135 - INFO - [smc] - ✅ График успешно сохранён: backtests\enhanced_BTCUSDT_1h_20251207_170028\enhanced_backtest_chart.png
+2025-12-07 17:03:39,602 - INFO - [smc] - 🚀 Запуск УЛУЧШЕННОГО бектеста для SOLUSDT на интервале 1h
+2025-12-07 17:03:39,602 - INFO - [smc] - ⏰ Период: 2025-09-07 10:03:39.601285+00:00 - 2025-12-06 10:03:39.601285+00:00
+2025-12-07 17:03:41,546 - INFO - [smc] - ✅ Получено 2160 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 17:03:41,546 - INFO - [smc] - 📊 Средний объем за последние 100 свечей: $137,178,095.33
+2025-12-07 17:03:41,546 - INFO - [smc] - ✅ Получено 2160 свечей для анализа
+2025-12-07 17:06:15,389 - INFO - [smc] - [2025-09-13 17:00:00] Price: $237.6700 | Conf: 0.60 | Decision: HOLD | Quality: LOW | Swing bias: NEUTRAL | Volume: $413,199,931
+2025-12-07 17:06:15,438 - INFO - [smc] - [2025-09-15 19:00:00] Price: $232.9000 | Conf: -0.20 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $224,612,754
+2025-12-07 17:06:15,456 - INFO - [smc] - 📈 Открыта позиция SELL @ 236.3360 | Size: 29.1256 | SL: 241.5901 | TP: 230.0200 | Reason: Mitigation of Bearish OB | Conf: 0.58
+2025-12-07 17:06:15,490 - INFO - [smc] - 📈 Открыта позиция BUY @ 233.7717 | Size: 26.9348 | SL: 228.1029 | TP: 240.8700 | Reason: Mitigation of Bullish OB | Conf: 0.74
+2025-12-07 17:06:15,515 - INFO - [smc] - [2025-09-17 21:00:00] Price: $240.1500 | Conf: -0.81 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $312,240,948
+2025-12-07 17:06:15,516 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-66.10 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 16:00:00
+2025-12-07 17:06:15,519 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $204.53 | Причина: TAKE_PROFIT | Удержание: 0 days 18:00:00
+2025-12-07 17:06:15,551 - INFO - [smc] - 📈 Открыта позиция BUY @ 245.0365 | Size: 26.8232 | SL: 239.2641 | TP: 253.4900 | Reason: Mitigation of Bullish OB | Conf: 0.67
+2025-12-07 17:06:15,555 - INFO - [smc] - 📈 Открыта позиция BUY @ 245.0167 | Size: 26.6786 | SL: 239.2152 | TP: 253.4900 | Reason: Mitigation of Bullish OB | Conf: 0.67
+2025-12-07 17:06:15,566 - INFO - [smc] - 📈 Открыта позиция BUY @ 242.8554 | Size: 45.0096 | SL: 239.3756 | TP: 253.4900 | Reason: Mitigation of Bullish OB | Conf: 0.62
+2025-12-07 17:06:15,569 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-75.96 | Причина: TREND_REVERSAL | Удержание: 0 days 07:00:00
+2025-12-07 17:06:15,570 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-76.33 | Причина: TREND_REVERSAL | Удержание: 0 days 06:00:00
+2025-12-07 17:06:15,576 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-161.23 | Причина: STOP_LOSS | Удержание: 0 days 05:00:00
+2025-12-07 17:06:15,586 - INFO - [smc] - [2025-09-19 23:00:00] Price: $238.4000 | Conf: 0.01 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $101,551,026
+2025-12-07 17:06:15,625 - INFO - [smc] - 📈 Открыта позиция BUY @ 238.4807 | Size: 57.6853 | SL: 235.8301 | TP: 241.7300 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:06:15,629 - INFO - [smc] - 📈 Открыта позиция BUY @ 238.3606 | Size: 60.7325 | SL: 235.8397 | TP: 241.7300 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:06:15,633 - INFO - [smc] - 📈 Открыта позиция BUY @ 238.6106 | Size: 55.9797 | SL: 235.8861 | TP: 241.7300 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:06:15,647 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-136.58 | Причина: STOP_LOSS | Удержание: 0 days 13:00:00
+2025-12-07 17:06:15,648 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-138.83 | Причина: STOP_LOSS | Удержание: 0 days 12:00:00
+2025-12-07 17:06:15,650 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-142.00 | Причина: STOP_LOSS | Удержание: 0 days 11:00:00
+2025-12-07 17:06:15,654 - INFO - [smc] - [2025-09-22 01:00:00] Price: $233.1000 | Conf: 0.18 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $364,653,544
+2025-12-07 17:06:15,697 - INFO - [smc] - 📈 Открыта позиция SELL @ 219.6421 | Size: 26.5247 | SL: 225.0378 | TP: 212.2800 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:06:15,706 - INFO - [smc] - 📈 Открыта позиция SELL @ 220.1914 | Size: 28.5297 | SL: 225.2139 | TP: 212.2800 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:06:15,720 - INFO - [smc] - [2025-09-24 03:00:00] Price: $208.3700 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $862,377,145
+2025-12-07 17:06:15,721 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $204.45 | Причина: TAKE_PROFIT | Удержание: 0 days 15:00:00
+2025-12-07 17:06:15,723 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $230.59 | Причина: TAKE_PROFIT | Удержание: 0 days 11:00:00
+2025-12-07 17:06:15,772 - INFO - [smc] - [2025-09-26 05:00:00] Price: $194.9800 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $177,331,290
+2025-12-07 17:06:15,788 - INFO - [smc] - 📈 Открыта позиция SELL @ 199.3572 | Size: 23.4100 | SL: 205.7275 | TP: 190.7200 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:06:15,838 - INFO - [smc] - [2025-09-28 07:00:00] Price: $202.0000 | Conf: -0.93 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $68,781,404
+2025-12-07 17:06:15,844 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $2.47 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 17:00:00
+2025-12-07 17:06:15,897 - INFO - [smc] - [2025-09-30 09:00:00] Price: $205.8000 | Conf: 0.78 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $257,645,091
+2025-12-07 17:06:15,900 - INFO - [smc] - 📈 Открыта позиция BUY @ 205.8903 | Size: 34.0437 | SL: 201.4832 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:15,903 - INFO - [smc] - 📈 Открыта позиция BUY @ 206.5404 | Size: 29.9098 | SL: 201.5384 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:15,908 - INFO - [smc] - 📈 Открыта позиция BUY @ 207.0204 | Size: 27.5548 | SL: 201.6003 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:15,935 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $321.03 | Причина: TAKE_PROFIT | Удержание: 0 days 23:00:00
+2025-12-07 17:06:15,936 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $261.45 | Причина: TAKE_PROFIT | Удержание: 0 days 22:00:00
+2025-12-07 17:06:15,938 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $226.54 | Причина: TAKE_PROFIT | Удержание: 0 days 21:00:00
+2025-12-07 17:06:15,967 - INFO - [smc] - [2025-10-02 11:00:00] Price: $225.1100 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $165,100,361
+2025-12-07 17:06:16,021 - INFO - [smc] - [2025-10-04 13:00:00] Price: $228.6800 | Conf: 0.33 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $125,353,190
+2025-12-07 17:06:16,043 - INFO - [smc] - 📈 Открыта позиция SELL @ 236.3776 | Size: 33.5640 | SL: 241.2158 | TP: 224.0000 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:06:16,080 - INFO - [smc] - [2025-10-06 15:00:00] Price: $235.5600 | Conf: 0.22 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $350,390,176
+2025-12-07 17:06:16,108 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $285.28 | Причина: TIME_EXPIRED_PROFIT | Удержание: 2 days 01:00:00
+2025-12-07 17:06:16,143 - INFO - [smc] - [2025-10-08 17:00:00] Price: $226.7500 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $445,141,222
+2025-12-07 17:06:16,197 - INFO - [smc] - [2025-10-10 19:00:00] Price: $205.1600 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $712,653,142
+2025-12-07 17:06:16,239 - INFO - [smc] - 📈 Открыта позиция SELL @ 182.2221 | Size: 20.0433 | SL: 190.4509 | TP: 172.3200 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:06:16,250 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-164.66 | Причина: STOP_LOSS | Удержание: 0 days 08:00:00
+2025-12-07 17:06:16,257 - INFO - [smc] - [2025-10-12 21:00:00] Price: $195.4400 | Conf: -0.76 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $353,196,576
+2025-12-07 17:06:16,297 - INFO - [smc] - 📈 Открыта позиция BUY @ 195.3429 | Size: 14.8718 | SL: 184.4460 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:16,300 - INFO - [smc] - 📈 Открыта позиция BUY @ 194.4326 | Size: 16.1958 | SL: 184.4206 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:16,306 - INFO - [smc] - 📈 Открыта позиция BUY @ 194.8227 | Size: 15.6001 | SL: 184.4334 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:16,323 - INFO - [smc] - [2025-10-14 23:00:00] Price: $202.3400 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $113,557,119
+2025-12-07 17:06:16,346 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $7.52 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:06:16,349 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $13.45 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:06:16,352 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-7.11 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:06:16,391 - INFO - [smc] - [2025-10-17 01:00:00] Price: $185.5900 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $151,424,501
+2025-12-07 17:06:16,449 - INFO - [smc] - [2025-10-19 03:00:00] Price: $186.9500 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $91,712,009
+2025-12-07 17:06:16,523 - INFO - [smc] - [2025-10-21 05:00:00] Price: $183.7600 | Conf: 0.88 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $180,354,122
+2025-12-07 17:06:16,598 - INFO - [smc] - [2025-10-23 07:00:00] Price: $187.4000 | Conf: -0.96 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $215,759,443
+2025-12-07 17:06:16,657 - INFO - [smc] - [2025-10-25 09:00:00] Price: $192.5200 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $142,155,513
+2025-12-07 17:06:16,713 - INFO - [smc] - [2025-10-27 11:00:00] Price: $200.0800 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $124,771,763
+2025-12-07 17:06:16,726 - INFO - [smc] - 📈 Открыта позиция BUY @ 198.7170 | Size: 33.9792 | SL: 193.8973 | TP: 205.3000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:16,731 - INFO - [smc] - 📈 Открыта позиция BUY @ 198.7271 | Size: 33.8091 | SL: 193.8850 | TP: 205.3000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:16,766 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-141.03 | Причина: STOP_LOSS | Удержание: 1 days 00:00:00
+2025-12-07 17:06:16,767 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-142.42 | Причина: STOP_LOSS | Удержание: 0 days 23:00:00
+2025-12-07 17:06:16,787 - INFO - [smc] - [2025-10-29 13:00:00] Price: $200.6500 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $411,321,376
+2025-12-07 17:06:16,844 - INFO - [smc] - [2025-10-31 15:00:00] Price: $188.0200 | Conf: -0.96 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $273,068,860
+2025-12-07 17:06:16,905 - INFO - [smc] - [2025-11-02 17:00:00] Price: $184.3200 | Conf: -0.88 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $85,688,326
+2025-12-07 17:06:16,964 - INFO - [smc] - [2025-11-04 19:00:00] Price: $154.5500 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $260,829,102
+2025-12-07 17:06:17,016 - INFO - [smc] - 📈 Открыта позиция BUY @ 155.9018 | Size: 27.1021 | SL: 150.0570 | TP: 163.8800 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:06:17,021 - INFO - [smc] - 📈 Открыта позиция BUY @ 155.4018 | Size: 29.1906 | SL: 149.9711 | TP: 163.8800 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:06:17,029 - INFO - [smc] - [2025-11-06 21:00:00] Price: $156.3900 | Conf: -0.11 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $94,818,015
+2025-12-07 17:06:17,057 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-105.72 | Причина: TREND_REVERSAL | Удержание: 0 days 21:00:00
+2025-12-07 17:06:17,059 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-100.23 | Причина: TREND_REVERSAL | Удержание: 0 days 20:00:00
+2025-12-07 17:06:17,100 - INFO - [smc] - [2025-11-08 23:00:00] Price: $157.9400 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $35,945,730
+2025-12-07 17:06:17,160 - INFO - [smc] - [2025-11-11 01:00:00] Price: $167.3000 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $269,291,355
+2025-12-07 17:06:17,220 - INFO - [smc] - [2025-11-13 03:00:00] Price: $154.2700 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $334,131,529
+2025-12-07 17:06:17,278 - INFO - [smc] - [2025-11-15 05:00:00] Price: $142.7700 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $46,751,464
+2025-12-07 17:06:17,317 - INFO - [smc] - 📈 Открыта позиция SELL @ 143.1266 | Size: 40.7933 | SL: 146.9481 | TP: 137.2800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:06:17,321 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.7970 | Size: 38.3838 | SL: 146.8529 | TP: 137.2800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:06:17,330 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $237.26 | Причина: TAKE_PROFIT | Удержание: 0 days 06:00:00
+2025-12-07 17:06:17,332 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $209.49 | Причина: TAKE_PROFIT | Удержание: 0 days 05:00:00
+2025-12-07 17:06:17,352 - INFO - [smc] - [2025-11-17 07:00:00] Price: $141.2600 | Conf: -0.83 | Decision: SELL | Quality: OB | Swing bias: BEARISH | Volume: $81,413,023
+2025-12-07 17:06:17,358 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.2166 | Size: 34.4566 | SL: 145.9213 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:06:17,362 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.8563 | Size: 39.9989 | SL: 145.9173 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:06:17,371 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.6670 | Size: 40.2520 | SL: 145.7011 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:06:17,378 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $224.00 | Причина: TAKE_PROFIT | Удержание: 0 days 08:00:00
+2025-12-07 17:06:17,380 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $284.52 | Причина: TAKE_PROFIT | Удержание: 0 days 07:00:00
+2025-12-07 17:06:17,381 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $275.27 | Причина: TAKE_PROFIT | Удержание: 0 days 04:00:00
+2025-12-07 17:06:17,422 - INFO - [smc] - 📈 Открыта позиция SELL @ 140.9139 | Size: 28.8259 | SL: 146.9315 | TP: 128.7000 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:06:17,460 - INFO - [smc] - [2025-11-19 09:00:00] Price: $139.6400 | Conf: 0.83 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $109,080,695
+2025-12-07 17:06:17,496 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-66.65 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:06:17,542 - INFO - [smc] - [2025-11-21 11:00:00] Price: $124.2400 | Conf: -0.16 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $298,190,331
+2025-12-07 17:06:17,603 - INFO - [smc] - [2025-11-23 13:00:00] Price: $131.5000 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $94,645,246
+2025-12-07 17:06:17,637 - INFO - [smc] - 📈 Открыта позиция SELL @ 133.5790 | Size: 47.8480 | SL: 137.2039 | TP: 128.3400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:06:17,642 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-180.37 | Причина: STOP_LOSS | Удержание: 0 days 02:00:00
+2025-12-07 17:06:17,667 - INFO - [smc] - [2025-11-25 15:00:00] Price: $134.7500 | Conf: 0.83 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $212,840,305
+2025-12-07 17:06:17,733 - INFO - [smc] - [2025-11-27 17:00:00] Price: $141.5100 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $69,312,562
+2025-12-07 17:06:17,768 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.3774 | Size: 60.0892 | SL: 145.2321 | TP: 138.8400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:06:17,772 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.4573 | Size: 60.7927 | SL: 145.2787 | TP: 138.8400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:06:17,778 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $205.52 | Причина: TAKE_PROFIT | Удержание: 0 days 03:00:00
+2025-12-07 17:06:17,779 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $211.05 | Причина: TAKE_PROFIT | Удержание: 0 days 02:00:00
+2025-12-07 17:06:17,815 - INFO - [smc] - [2025-11-29 19:00:00] Price: $135.6300 | Conf: 0.30 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $58,555,745
+2025-12-07 17:06:17,853 - INFO - [smc] - 📈 Открыта позиция SELL @ 137.4413 | Size: 92.9313 | SL: 139.3712 | TP: 135.1800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:06:17,856 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-195.23 | Причина: STOP_LOSS | Удержание: 0 days 01:00:00
+2025-12-07 17:06:17,897 - INFO - [smc] - [2025-12-01 21:00:00] Price: $126.0000 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $165,295,339
+2025-12-07 17:06:17,914 - INFO - [smc] - 📈 Открыта позиция SELL @ 127.1531 | Size: 57.2636 | SL: 130.1939 | TP: 123.0500 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:06:17,934 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-170.24 | Причина: STOP_LOSS | Удержание: 0 days 10:00:00
+2025-12-07 17:06:17,988 - INFO - [smc] - [2025-12-03 23:00:00] Price: $144.6200 | Conf: 0.33 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $158,354,149
+2025-12-07 17:06:18,026 - INFO - [smc] - 📈 Открыта позиция BUY @ 140.7429 | Size: 37.0420 | SL: 136.1376 | TP: 146.8700 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:06:18,030 - INFO - [smc] - 📈 Открыта позиция BUY @ 139.6628 | Size: 46.4961 | SL: 135.9820 | TP: 146.8700 | Reason: Mitigation of Bullish OB | Conf: 0.99
+2025-12-07 17:06:18,038 - INFO - [smc] - 📈 Открыта позиция BUY @ 138.7124 | Size: 63.5322 | SL: 136.0029 | TP: 144.2200 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:06:18,057 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-161.28 | Причина: STOP_LOSS | Удержание: 0 days 16:00:00
+2025-12-07 17:06:18,064 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-156.98 | Причина: STOP_LOSS | Удержание: 0 days 18:00:00
+2025-12-07 17:06:18,065 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-156.49 | Причина: STOP_LOSS | Удержание: 0 days 16:00:00
+2025-12-07 17:06:18,080 - INFO - [smc] - [2025-12-06 01:00:00] Price: $133.4200 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $43,044,246
+2025-12-07 17:06:18,094 - INFO - [smc] - ✅ УЛУЧШЕННЫЙ бектест завершен | Финальный баланс: $10,732.39 | Total Return: 7.32%
+2025-12-07 17:06:18,095 - INFO - [smc] - 📊 Сделок: 37 | Win Rate: 45.9% | Profit Factor: 1.34
+2025-12-07 17:06:18,095 - INFO - [smc] - 📈 Sharpe Ratio: -0.98 | Sortino Ratio: 10.00
+2025-12-07 17:06:18,095 - INFO - [smc] - ⚠️ Max Drawdown: 16.17% | Recovery Factor: 0.45
+2025-12-07 17:06:18,125 - INFO - [smc] - 🎨 Генерация Smart-графика: backtests\enhanced_SOLUSDT_1h_20251207_170618\enhanced_backtest_chart.png
+2025-12-07 17:06:18,742 - INFO - [smc] - ✅ Получено 1500 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 17:06:20,683 - INFO - [smc] - ✅ График успешно сохранён: backtests\enhanced_SOLUSDT_1h_20251207_170618\enhanced_backtest_chart.png
+2025-12-07 17:09:29,405 - INFO - [smc] - 🚀 Запуск УЛУЧШЕННОГО бектеста для SOLUSDT на интервале 1h
+2025-12-07 17:09:29,405 - INFO - [smc] - ⏰ Период: 2025-09-07 10:09:29.404146+00:00 - 2025-12-06 10:09:29.404146+00:00
+2025-12-07 17:09:31,313 - INFO - [smc] - ✅ Получено 2160 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 17:09:31,313 - INFO - [smc] - 📊 Средний объем за последние 100 свечей: $137,178,095.33
+2025-12-07 17:09:31,314 - INFO - [smc] - ✅ Получено 2160 свечей для анализа
+2025-12-07 17:11:58,719 - INFO - [smc] - [2025-09-13 17:00:00] Price: $237.6700 | Conf: 0.60 | Decision: HOLD | Quality: LOW | Swing bias: NEUTRAL | Volume: $413,199,931
+2025-12-07 17:11:58,768 - INFO - [smc] - [2025-09-15 19:00:00] Price: $232.9000 | Conf: -0.20 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $224,612,754
+2025-12-07 17:11:58,786 - WARNING - [smc] - R:R (1.19) failed after slippage, skipping.
+2025-12-07 17:11:58,819 - INFO - [smc] - 📈 Открыта позиция BUY @ 233.7971 | Size: 26.9440 | SL: 228.1029 | TP: 240.8700 | Reason: Mitigation of Bullish OB | Conf: 0.74
+2025-12-07 17:11:58,843 - INFO - [smc] - [2025-09-17 21:00:00] Price: $240.1500 | Conf: -0.81 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $312,240,948
+2025-12-07 17:11:58,845 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $204.47 | Причина: TAKE_PROFIT | Удержание: 0 days 18:00:00
+2025-12-07 17:11:58,877 - INFO - [smc] - 📈 Открыта позиция BUY @ 245.0632 | Size: 27.0088 | SL: 239.2641 | TP: 253.4900 | Reason: Mitigation of Bullish OB | Conf: 0.67
+2025-12-07 17:11:58,882 - INFO - [smc] - 📈 Открыта позиция BUY @ 245.0433 | Size: 26.8649 | SL: 239.2152 | TP: 253.4900 | Reason: Mitigation of Bullish OB | Conf: 0.67
+2025-12-07 17:11:58,893 - INFO - [smc] - 📈 Открыта позиция BUY @ 242.8817 | Size: 45.3269 | SL: 239.3756 | TP: 253.4900 | Reason: Mitigation of Bullish OB | Conf: 0.62
+2025-12-07 17:11:58,896 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-76.60 | Причина: TREND_REVERSAL | Удержание: 0 days 07:00:00
+2025-12-07 17:11:58,898 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-76.98 | Причина: TREND_REVERSAL | Удержание: 0 days 06:00:00
+2025-12-07 17:11:58,903 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-162.55 | Причина: STOP_LOSS | Удержание: 0 days 05:00:00
+2025-12-07 17:11:58,913 - INFO - [smc] - [2025-09-19 23:00:00] Price: $238.4000 | Conf: 0.01 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $101,551,026
+2025-12-07 17:11:58,953 - INFO - [smc] - 📈 Открыта позиция BUY @ 238.5059 | Size: 58.0961 | SL: 235.8301 | TP: 241.7300 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:11:58,957 - INFO - [smc] - 📈 Открыта позиция BUY @ 238.3858 | Size: 61.1736 | SL: 235.8397 | TP: 241.7300 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:11:58,960 - WARNING - [smc] - R:R (1.13) failed after slippage, skipping.
+2025-12-07 17:11:58,968 - WARNING - [smc] - R:R (1.17) failed after slippage, skipping.
+2025-12-07 17:11:58,973 - INFO - [smc] - 📈 Открыта позиция BUY @ 237.9054 | Size: 49.0950 | SL: 234.7660 | TP: 241.7300 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:11:58,981 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-137.71 | Причина: STOP_LOSS | Удержание: 0 days 13:00:00
+2025-12-07 17:11:58,982 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-140.00 | Причина: STOP_LOSS | Удержание: 0 days 12:00:00
+2025-12-07 17:11:58,986 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-148.57 | Причина: STOP_LOSS | Удержание: 0 days 09:00:00
+2025-12-07 17:11:58,987 - INFO - [smc] - [2025-09-22 01:00:00] Price: $233.1000 | Conf: 0.18 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $364,653,544
+2025-12-07 17:11:59,030 - INFO - [smc] - 📈 Открыта позиция SELL @ 219.6176 | Size: 26.7108 | SL: 225.0378 | TP: 212.2800 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:11:59,038 - INFO - [smc] - 📈 Открыта позиция SELL @ 220.1667 | Size: 28.7316 | SL: 225.2139 | TP: 212.2800 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:11:59,051 - INFO - [smc] - [2025-09-24 03:00:00] Price: $208.3700 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $862,377,145
+2025-12-07 17:11:59,052 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $205.73 | Причина: TAKE_PROFIT | Удержание: 0 days 15:00:00
+2025-12-07 17:11:59,055 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $232.06 | Причина: TAKE_PROFIT | Удержание: 0 days 11:00:00
+2025-12-07 17:11:59,107 - INFO - [smc] - [2025-09-26 05:00:00] Price: $194.9800 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $177,331,290
+2025-12-07 17:11:59,121 - INFO - [smc] - 📈 Открыта позиция SELL @ 199.3340 | Size: 23.5764 | SL: 205.7275 | TP: 190.7200 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:11:59,170 - INFO - [smc] - [2025-09-28 07:00:00] Price: $202.0000 | Conf: -0.93 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $68,781,404
+2025-12-07 17:11:59,175 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $2.38 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 17:00:00
+2025-12-07 17:11:59,228 - INFO - [smc] - [2025-09-30 09:00:00] Price: $205.8000 | Conf: 0.78 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $257,645,091
+2025-12-07 17:11:59,230 - INFO - [smc] - 📈 Открыта позиция BUY @ 205.9128 | Size: 34.2869 | SL: 201.4832 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,233 - INFO - [smc] - 📈 Открыта позиция BUY @ 206.5630 | Size: 30.1256 | SL: 201.5384 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,237 - INFO - [smc] - 📈 Открыта позиция BUY @ 207.0430 | Size: 27.7553 | SL: 201.6003 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,240 - INFO - [smc] - 📈 Открыта позиция BUY @ 206.1724 | Size: 33.4648 | SL: 201.6406 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,249 - INFO - [smc] - 📈 Открыта позиция BUY @ 206.0342 | Size: 30.5932 | SL: 201.0871 | TP: 214.6800 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,270 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $323.16 | Причина: TAKE_PROFIT | Удержание: 0 days 23:00:00
+2025-12-07 17:11:59,271 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $263.20 | Причина: TAKE_PROFIT | Удержание: 0 days 22:00:00
+2025-12-07 17:11:59,272 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $228.07 | Причина: TAKE_PROFIT | Удержание: 0 days 21:00:00
+2025-12-07 17:11:59,274 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $302.63 | Причина: TAKE_PROFIT | Удержание: 0 days 20:00:00
+2025-12-07 17:11:59,275 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $277.09 | Причина: TAKE_PROFIT | Удержание: 0 days 17:00:00
+2025-12-07 17:11:59,317 - INFO - [smc] - [2025-10-02 11:00:00] Price: $225.1100 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $165,100,361
+2025-12-07 17:11:59,386 - INFO - [smc] - [2025-10-04 13:00:00] Price: $228.6800 | Conf: 0.33 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $125,353,190
+2025-12-07 17:11:59,408 - INFO - [smc] - 📈 Открыта позиция SELL @ 236.3519 | Size: 35.6281 | SL: 241.2158 | TP: 224.0000 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:11:59,446 - INFO - [smc] - [2025-10-06 15:00:00] Price: $235.5600 | Conf: 0.22 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $350,390,176
+2025-12-07 17:11:59,473 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $302.67 | Причина: TIME_EXPIRED_PROFIT | Удержание: 2 days 01:00:00
+2025-12-07 17:11:59,510 - INFO - [smc] - [2025-10-08 17:00:00] Price: $226.7500 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $445,141,222
+2025-12-07 17:11:59,566 - INFO - [smc] - [2025-10-10 19:00:00] Price: $205.1600 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $712,653,142
+2025-12-07 17:11:59,609 - WARNING - [smc] - R:R (1.20) failed after slippage, skipping.
+2025-12-07 17:11:59,625 - INFO - [smc] - [2025-10-12 21:00:00] Price: $195.4400 | Conf: -0.76 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $353,196,576
+2025-12-07 17:11:59,664 - INFO - [smc] - 📈 Открыта позиция BUY @ 195.3661 | Size: 16.0326 | SL: 184.4460 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,668 - INFO - [smc] - 📈 Открыта позиция BUY @ 194.4558 | Size: 17.4605 | SL: 184.4206 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,674 - INFO - [smc] - 📈 Открыта позиция BUY @ 194.8459 | Size: 16.8188 | SL: 184.4334 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,678 - INFO - [smc] - 📈 Открыта позиция BUY @ 194.2457 | Size: 17.8360 | SL: 184.4217 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,683 - INFO - [smc] - 📈 Открыта позиция BUY @ 193.3648 | Size: 19.9292 | SL: 184.5624 | TP: 211.2900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,696 - INFO - [smc] - [2025-10-14 23:00:00] Price: $202.3400 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $113,557,119
+2025-12-07 17:11:59,723 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $8.00 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:11:59,726 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $14.37 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:11:59,731 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-7.78 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:11:59,734 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $11.65 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:11:59,741 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $5.52 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 16:00:00
+2025-12-07 17:11:59,772 - INFO - [smc] - [2025-10-17 01:00:00] Price: $185.5900 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $151,424,501
+2025-12-07 17:11:59,830 - INFO - [smc] - [2025-10-19 03:00:00] Price: $186.9500 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $91,712,009
+2025-12-07 17:11:59,897 - INFO - [smc] - 📈 Открыта позиция BUY @ 186.7439 | Size: 28.2317 | SL: 180.4912 | TP: 194.4400 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,903 - INFO - [smc] - [2025-10-21 05:00:00] Price: $183.7600 | Conf: 0.88 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $180,354,122
+2025-12-07 17:11:59,916 - INFO - [smc] - ✅ Закрыта позиция BUY | PnL: $224.62 | Причина: TAKE_PROFIT | Удержание: 0 days 14:00:00
+2025-12-07 17:11:59,929 - INFO - [smc] - 📈 Открыта позиция BUY @ 185.6476 | Size: 25.4884 | SL: 178.5985 | TP: 197.6900 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:11:59,969 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-92.79 | Причина: TREND_REVERSAL | Удержание: 0 days 18:00:00
+2025-12-07 17:11:59,986 - INFO - [smc] - [2025-10-23 07:00:00] Price: $187.4000 | Conf: -0.96 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $215,759,443
+2025-12-07 17:12:00,051 - INFO - [smc] - [2025-10-25 09:00:00] Price: $192.5200 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $142,155,513
+2025-12-07 17:12:00,107 - INFO - [smc] - [2025-10-27 11:00:00] Price: $200.0800 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $124,771,763
+2025-12-07 17:12:00,119 - INFO - [smc] - 📈 Открыта позиция BUY @ 198.7388 | Size: 37.0839 | SL: 193.8973 | TP: 205.3000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:12:00,123 - INFO - [smc] - 📈 Открыта позиция BUY @ 198.7488 | Size: 36.9006 | SL: 193.8850 | TP: 205.3000 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:12:00,158 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-154.08 | Причина: STOP_LOSS | Удержание: 1 days 00:00:00
+2025-12-07 17:12:00,160 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-155.61 | Причина: STOP_LOSS | Удержание: 0 days 23:00:00
+2025-12-07 17:12:00,181 - INFO - [smc] - [2025-10-29 13:00:00] Price: $200.6500 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $411,321,376
+2025-12-07 17:12:00,237 - INFO - [smc] - [2025-10-31 15:00:00] Price: $188.0200 | Conf: -0.96 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $273,068,860
+2025-12-07 17:12:00,303 - INFO - [smc] - [2025-11-02 17:00:00] Price: $184.3200 | Conf: -0.88 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $85,688,326
+2025-12-07 17:12:00,312 - INFO - [smc] - 📈 Открыта позиция SELL @ 187.5485 | Size: 58.2109 | SL: 190.5837 | TP: 181.9100 | Reason: Mitigation of Bearish OB | Conf: 0.98
+2025-12-07 17:12:00,321 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $322.44 | Причина: TAKE_PROFIT | Удержание: 0 days 04:00:00
+2025-12-07 17:12:00,370 - INFO - [smc] - [2025-11-04 19:00:00] Price: $154.5500 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $260,829,102
+2025-12-07 17:12:00,425 - INFO - [smc] - 📈 Открыта позиция BUY @ 155.9198 | Size: 30.4078 | SL: 150.0570 | TP: 163.8800 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:12:00,429 - INFO - [smc] - 📈 Открыта позиция BUY @ 155.4198 | Size: 32.7524 | SL: 149.9711 | TP: 163.8800 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:12:00,437 - INFO - [smc] - [2025-11-06 21:00:00] Price: $156.3900 | Conf: -0.11 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $94,818,015
+2025-12-07 17:12:00,470 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-118.75 | Причина: TREND_REVERSAL | Удержание: 0 days 21:00:00
+2025-12-07 17:12:00,472 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-112.61 | Причина: TREND_REVERSAL | Удержание: 0 days 20:00:00
+2025-12-07 17:12:00,520 - INFO - [smc] - [2025-11-08 23:00:00] Price: $157.9400 | Conf: -0.11 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $35,945,730
+2025-12-07 17:12:00,584 - INFO - [smc] - [2025-11-11 01:00:00] Price: $167.3000 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $269,291,355
+2025-12-07 17:12:00,648 - INFO - [smc] - [2025-11-13 03:00:00] Price: $154.2700 | Conf: -0.56 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $334,131,529
+2025-12-07 17:12:00,707 - INFO - [smc] - [2025-11-15 05:00:00] Price: $142.7700 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $46,751,464
+2025-12-07 17:12:00,744 - INFO - [smc] - 📈 Открыта позиция SELL @ 143.1107 | Size: 45.7717 | SL: 146.9481 | TP: 137.2800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:12:00,750 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.7812 | Size: 43.0706 | SL: 146.8529 | TP: 137.2800 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:12:00,758 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $266.07 | Причина: TAKE_PROFIT | Удержание: 0 days 06:00:00
+2025-12-07 17:12:00,759 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $234.93 | Причина: TAKE_PROFIT | Удержание: 0 days 05:00:00
+2025-12-07 17:12:00,780 - INFO - [smc] - [2025-11-17 07:00:00] Price: $141.2600 | Conf: -0.83 | Decision: SELL | Quality: OB | Swing bias: BEARISH | Volume: $81,413,023
+2025-12-07 17:12:00,785 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.2007 | Size: 38.6648 | SL: 145.9213 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:12:00,790 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.8404 | Size: 44.8861 | SL: 145.9173 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:12:00,799 - INFO - [smc] - 📈 Открыта позиция SELL @ 141.6512 | Size: 45.1725 | SL: 145.7011 | TP: 134.7400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:12:00,806 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $251.20 | Причина: TAKE_PROFIT | Удержание: 0 days 08:00:00
+2025-12-07 17:12:00,808 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $319.09 | Причина: TAKE_PROFIT | Удержание: 0 days 07:00:00
+2025-12-07 17:12:00,809 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $308.73 | Причина: TAKE_PROFIT | Удержание: 0 days 04:00:00
+2025-12-07 17:12:00,852 - INFO - [smc] - 📈 Открыта позиция SELL @ 140.8974 | Size: 32.3498 | SL: 146.9315 | TP: 128.7000 | Reason: Mitigation of Bearish OB | Conf: 0.56
+2025-12-07 17:12:00,892 - INFO - [smc] - [2025-11-19 09:00:00] Price: $139.6400 | Conf: 0.83 | Decision: BUY | Quality: OB | Swing bias: BULLISH | Volume: $109,080,695
+2025-12-07 17:12:00,923 - INFO - [smc] - 📈 Открыта позиция SELL @ 139.4997 | Size: 41.6027 | SL: 144.2072 | TP: 130.4400 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:12:00,928 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-201.71 | Причина: STOP_LOSS | Удержание: 0 days 02:00:00
+2025-12-07 17:12:00,932 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-74.95 | Причина: TIME_EXPIRED_STALE | Удержание: 1 days 13:00:00
+2025-12-07 17:12:00,976 - INFO - [smc] - [2025-11-21 11:00:00] Price: $124.2400 | Conf: -0.16 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $298,190,331
+2025-12-07 17:12:01,036 - INFO - [smc] - [2025-11-23 13:00:00] Price: $131.5000 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $94,645,246
+2025-12-07 17:12:01,071 - INFO - [smc] - 📈 Открыта позиция SELL @ 133.5637 | Size: 52.8399 | SL: 137.2039 | TP: 128.3400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:12:01,076 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-199.40 | Причина: STOP_LOSS | Удержание: 0 days 02:00:00
+2025-12-07 17:12:01,101 - INFO - [smc] - [2025-11-25 15:00:00] Price: $134.7500 | Conf: 0.83 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $212,840,305
+2025-12-07 17:12:01,165 - INFO - [smc] - [2025-11-27 17:00:00] Price: $141.5100 | Conf: 0.78 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $69,312,562
+2025-12-07 17:12:01,201 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.3618 | Size: 66.3610 | SL: 145.2321 | TP: 138.8400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:12:01,205 - INFO - [smc] - 📈 Открыта позиция SELL @ 142.4416 | Size: 67.1430 | SL: 145.2787 | TP: 138.8400 | Reason: Mitigation of Bearish OB | Conf: 0.50
+2025-12-07 17:12:01,210 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $226.78 | Причина: TAKE_PROFIT | Удержание: 0 days 03:00:00
+2025-12-07 17:12:01,213 - INFO - [smc] - ✅ Закрыта позиция SELL | PnL: $232.90 | Причина: TAKE_PROFIT | Удержание: 0 days 02:00:00
+2025-12-07 17:12:01,248 - INFO - [smc] - [2025-11-29 19:00:00] Price: $135.6300 | Conf: 0.30 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $58,555,745
+2025-12-07 17:12:01,287 - WARNING - [smc] - R:R (1.16) failed after slippage, skipping.
+2025-12-07 17:12:01,328 - INFO - [smc] - [2025-12-01 21:00:00] Price: $126.0000 | Conf: -0.17 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $165,295,339
+2025-12-07 17:12:01,340 - WARNING - [smc] - R:R (1.16) failed after slippage, skipping.
+2025-12-07 17:12:01,346 - INFO - [smc] - 📈 Открыта позиция SELL @ 127.1388 | Size: 64.3673 | SL: 130.1939 | TP: 123.0500 | Reason: Mitigation of Bearish OB | Conf: 0.83
+2025-12-07 17:12:01,368 - INFO - [smc] - ❌ Закрыта позиция SELL | PnL: $-191.55 | Причина: STOP_LOSS | Удержание: 0 days 10:00:00
+2025-12-07 17:12:01,421 - INFO - [smc] - [2025-12-03 23:00:00] Price: $144.6200 | Conf: 0.33 | Decision: HOLD | Quality: LOW | Swing bias: BULLISH | Volume: $158,354,149
+2025-12-07 17:12:01,460 - INFO - [smc] - 📈 Открыта позиция BUY @ 140.7586 | Size: 41.6393 | SL: 136.1376 | TP: 146.8700 | Reason: Mitigation of Bullish OB | Conf: 0.50
+2025-12-07 17:12:01,465 - INFO - [smc] - 📈 Открыта позиция BUY @ 139.6786 | Size: 52.2692 | SL: 135.9820 | TP: 146.8700 | Reason: Mitigation of Bullish OB | Conf: 0.99
+2025-12-07 17:12:01,470 - INFO - [smc] - 📈 Открыта позиция BUY @ 138.7280 | Size: 71.4246 | SL: 136.0029 | TP: 144.2200 | Reason: Mitigation of Bullish OB | Conf: 0.78
+2025-12-07 17:12:01,506 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-179.07 | Причина: STOP_LOSS | Удержание: 0 days 18:00:00
+2025-12-07 17:12:01,509 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-176.63 | Причина: STOP_LOSS | Удержание: 0 days 18:00:00
+2025-12-07 17:12:01,511 - INFO - [smc] - ❌ Закрыта позиция BUY | PnL: $-176.16 | Причина: STOP_LOSS | Удержание: 0 days 16:00:00
+2025-12-07 17:12:01,528 - INFO - [smc] - [2025-12-06 01:00:00] Price: $133.4200 | Conf: -0.83 | Decision: HOLD | Quality: LOW | Swing bias: BEARISH | Volume: $43,044,246
+2025-12-07 17:12:01,542 - INFO - [smc] - ✅ УЛУЧШЕННЫЙ бектест завершен | Финальный баланс: $12,068.49 | Total Return: 20.68%
+2025-12-07 17:12:01,542 - INFO - [smc] - 📊 Сделок: 42 | Win Rate: 54.8% | Profit Factor: 1.85
+2025-12-07 17:12:01,543 - INFO - [smc] - 📈 Sharpe Ratio: -0.78 | Sortino Ratio: 10.00
+2025-12-07 17:12:01,543 - INFO - [smc] - ⚠️ Max Drawdown: 20.91% | Recovery Factor: 0.99
+2025-12-07 17:12:01,576 - INFO - [smc] - 🎨 Генерация Smart-графика: backtests\enhanced_SOLUSDT_1h_20251207_171201\enhanced_backtest_chart.png
+2025-12-07 17:12:02,297 - INFO - [smc] - ✅ Получено 1500 валидных свечей для SOLUSDT на интервале 1h
+2025-12-07 17:12:04,292 - INFO - [smc] - ✅ График успешно сохранён: backtests\enhanced_SOLUSDT_1h_20251207_171201\enhanced_backtest_chart.png
+2026-01-07 04:29:03,809 - INFO - [SmartMoneyConcept] - 🚀 Запуск УЛУЧШЕННОГО бектеста для SOLUSDT на интервале 1h
+2026-01-07 04:29:03,809 - INFO - [SmartMoneyConcept] - ⏰ Период: 2025-10-07 21:29:03.808764+00:00 - 2026-01-05 21:29:03.808764+00:00
+2026-01-07 04:29:05,134 - INFO - [SmartMoneyConcept] - ✅ Получено 2160 валидных свечей для SOLUSDT на интервале 1h
+2026-01-07 04:29:05,135 - INFO - [SmartMoneyConcept] - 📊 Средний объем за последние 100 свечей: $102,082,756.46
+2026-01-07 04:29:05,136 - INFO - [SmartMoneyConcept] - ✅ Получено 2160 свечей для анализа

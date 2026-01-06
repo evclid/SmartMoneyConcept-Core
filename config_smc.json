@@ -1,0 +1,51 @@
+{
+  "symbol": "SOLUSDT",
+  "interval": "1h",
+  "initial_balance": 10000.0,
+  "use_futures": true,
+  
+  "strategy_settings": {
+    "lookback": 50,
+    "internal_confluence_filter": false,
+    "volatility_method": "ATR",
+    "atr_length": 50,
+    "ob_mitigation": "HIGHLOW",
+    "min_volume_threshold": 50000.0,
+    "max_correlation_risk": 0.5
+  },
+
+  "risk_management": {
+    "position_sizing_method": "risk_based",
+    "risk_per_trade": 0.025,
+    "leverage": 3,
+    "max_positions": 5,
+    "session_trades_limit": 30,
+    "daily_loss_limit_pct": 0.15
+  },
+
+  "execution_settings": {
+    "commission_rate": 0.0004,
+    "maker_commission": 0.0002,
+    "taker_commission": 0.0004,
+    "slippage_pct": 0.0005,
+    "slippage_model": "volume_based",
+    "market_impact_model": "square_root",
+    "funding_rate": 0.0001
+  },
+  
+  "time_filters": {
+    "avoid_low_volume": [23, 0, 1, 2],
+    "avoid_market_open": [9, 10],
+    "prefer_high_liquidity": [14, 15, 16, 17, 18, 19, 20, 21]
+  },
+
+  "backtest_range": {
+    "days_back": 90,
+    "end_date": "now" 
+  },
+
+  "system": {
+    "enable_debug_logging": true,
+    "allow_low_liquidity": true
+  }
+}
